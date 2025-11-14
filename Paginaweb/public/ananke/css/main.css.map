@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Paradigmas/Paginaweb",
+	"sourceRoot": "C:/Practicas/Paginaweb",
 	"sources": [
 		"ananke/css/main.css"
 	],
