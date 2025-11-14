@@ -196,5 +196,4 @@ El manejo de memoria dinámica, uso de estructuras enlazadas y separación de fu
 
 ## 🔗 Referencias
 - [Repositorio Kevin Soto](https://github.com/KVSO755/Portafolio )
-- [Sitio estático del portafolio](https://papux100.github.io/Portafolio/)  
  
