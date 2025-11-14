@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pagina Web De la Trackalosa</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/Pagina-Hugo/</link>
     <description>Recent content on Pagina Web De la Trackalosa</description>
     <generator>Hugo</generator>
     <language>es-mx</language>
     <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Pagina-Hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Práctica 1</title>
-      <link>http://localhost:1313/posts/</link>
+      <link>http://localhost:1313/Pagina-Hugo/posts/</link>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
+      <guid>http://localhost:1313/Pagina-Hugo/posts/</guid>
       <description>&lt;h1 id=&#34;práctica-1---paradigmas-de-programación&#34;&gt;Práctica 1 - Paradigmas de Programación&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alumno:&lt;/strong&gt; Kevin Humberto Soto Ortiz&lt;br&gt;&#xA;&lt;strong&gt;Profesor:&lt;/strong&gt; Carlos Gallegos&lt;br&gt;&#xA;&lt;strong&gt;Fecha:&lt;/strong&gt; 26/09/2025&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-introducción&#34;&gt;📖 Introducción&lt;/h2&gt;&#xA;&lt;p&gt;En esta primera práctica se revisan conceptos esenciales dentro de los lenguajes de programación y cómo se aplican en un sistema desarrollado en C. Entre los puntos tratados se encuentran:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uso de nombres e identificadores.&lt;/li&gt;&#xA;&lt;li&gt;Funcionamiento de los marcos de activación.&lt;/li&gt;&#xA;&lt;li&gt;Manejo de bloques de alcance.&lt;/li&gt;&#xA;&lt;li&gt;Esquemas de administración de memoria.&lt;/li&gt;&#xA;&lt;li&gt;Expresiones y comandos.&lt;/li&gt;&#xA;&lt;li&gt;Control de flujo mediante selección, iteración y recursión.&lt;/li&gt;&#xA;&lt;li&gt;Definición y uso de subprogramas.&lt;/li&gt;&#xA;&lt;li&gt;Implementación de distintos tipos de datos.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;El objetivo es reconocer estos elementos dentro del código de una aplicación para gestión de biblioteca, mostrando cómo se relacionan entre sí y permiten organizar un sistema modular y eficiente.&lt;/p&gt;</description>
     </item>
   </channel>

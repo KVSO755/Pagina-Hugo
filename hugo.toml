@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kvso755.github.io/Pagina-Hugo/'
 languageCode = 'es-mx'
 title = 'Pagina Web De la Trackalosa'
 theme = 'ananke'
