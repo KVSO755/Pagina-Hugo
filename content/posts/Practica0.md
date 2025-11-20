@@ -1,3 +1,8 @@
+---
+title: "Práctica 0"
+date: 2025-09-26
+draft: false
+--- 
 # PRACTICA 0
 ## Universidad Autonoma De Baja California
 
