@@ -1,3 +1,8 @@
+---
+title: "Práctica 3"
+date: 2025-09-26
+draft: false
+--- 
 # Reporte: Instalación del Entorno de Desarrollo Haskell y Funcionamiento de la Aplicación TODO
 
 ## 1. Primera sesión — Instalación del entorno de desarrollo
