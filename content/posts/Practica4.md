@@ -19,7 +19,7 @@ Primera sesión – Hechos, reglas y bases de conocimiento (reescrito)
 
 Durante la primera sesión se revisaron los conceptos esenciales del paradigma lógico y la estructura fundamental de Prolog. Los temas principales abarcaron:
 
-1. Hechos
+1 Hechos
 
 Los hechos son afirmaciones que describen relaciones o propiedades que se consideran verdaderas dentro de la base de conocimiento.
 Su forma general es: relación(objeto1, objeto2).
@@ -37,7 +37,7 @@ Los argumentos se separan con comas.
 
 Cada hecho finaliza con un punto.
 
-2. Reglas
+2 Reglas
 
 Se estudió la forma en que se definen reglas utilizando los operadores:
 
@@ -45,7 +45,7 @@ Se estudió la forma en que se definen reglas utilizando los operadores:
 
 ; para representar disyunción
 
-Código de la práctica (reescrito)
+Código de la práctica 
 % Base de conocimiento
 girl(priya).
 girl(natasha).
