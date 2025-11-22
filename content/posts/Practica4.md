@@ -102,3 +102,8 @@ aplicar razonamiento lógico,
 explorar respuestas mediante backtracking,
 
 trabajar con listas, estructuras y funciones recursivas.
+
+
+[Github](https://github.com/KVSO755/Portafolio "Repositorio De Github")
+
+![Pagina Hugo](https://kvso755.github.io/Pagina-Hugo/)
